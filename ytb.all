@@ -5030,9 +5030,6 @@ vungle.com
 # this will prevent your browser from downloading banner ads, or sending
 # your information back to a company.
 
-#
-#fe80::1%lo0	localhost
-#
 
 #
 # For example, to block unpleasant pages, try:
