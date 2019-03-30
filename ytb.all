@@ -3703,7 +3703,7 @@ vungle.com
 0.0.0.0 www.myishop.co.uk
 0.0.0.0 www2.myishop.co.uk
 
-# See Issue #844 – Windows telemetry servers – https://github.com/StevenBlack/hosts/issues/844
+# See Issue #844 – Windows telemetry servers – https:///StevenBlack/hosts/issues/844
 0.0.0.0 alpha.telemetry.microsft.com
 0.0.0.0 eu.vortex-win.data.microsft.com
 0.0.0.0 oca.telemetry.microsft.com
@@ -19381,7 +19381,7 @@ vungle.com
 # Notes: The Operating System does not read the "#" symbol #
 # or anything after the # symbol on the same line          #
 #                                                          #
-# This *must* be the first line: 127.0.0.1     localhost   #
+
 #                                                          #
 #**********************************************************#
 # ----------------- Updated: March-8-2019 ---------------- #
@@ -33239,8 +33239,8 @@ vungle.com
 # Start Badd-Boyz-Hosts
 
 # This hosts file is brought to you by Mitchell Krog
-# Copyright: https://github.com/mitchellkrogza
-# Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+# Copyright: https:///mitchellkrogza
+# Source: https:///mitchellkrogza/Badd-Boyz-Hosts
 
 ##################################################################################
 #                                                                                #
@@ -33256,14 +33256,14 @@ vungle.com
 # as long the original URL and attribution is included. 
 
 # Please forward any additions, corrections or comments by logging an issue at
-# https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
+# https:///mitchellkrogza/Badd-Boyz-Hosts/issues
 
 # This list of hosts is compiled from server logs on my own servers
 # and forms the basis of the bad referrers domain lists for
 # The Nginx Ultimate Bad Bot Blocker at: 
-# https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
+# https:///mitchellkrogza/nginx-ultimate-bad-bot-blocker
 # and the Apache Ultimate Bad Bot Blocker at:
-# https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+# https:///mitchellkrogza/apache-ultimate-bad-bot-blocker
 
 ##### Version Information #
 ###################################################
@@ -36061,7 +36061,7 @@ vungle.com
 # Copyright: (c) ZeroDot1, 2018
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
-# Homepage: https://github.com/ZeroDot1/CoinBlockerLists
+# Homepage: https:///ZeroDot1/CoinBlockerLists
 # Last modified: 2019-03-25 17:40
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
@@ -39395,8 +39395,8 @@ vungle.com
 # Version: 2019.3.25.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
-# Repository: https://github.com/PolishFiltersTeam/KADhosts
-# Based on: https://github.com/PolishFiltersTeam/KAD
+# Repository: https:///PolishFiltersTeam/KADhosts
+# Based on: https:///PolishFiltersTeam/KAD
 # Check the repository for license information. / Sprawdz repozytorium po informacje o licencji.
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
@@ -41012,7 +41012,7 @@ vungle.com
 # Blocking mobile ad providers and some analytics providers
 # 
 # Contribute:
-# Create an issue at https://github.com/AdAway/AdAway/issues
+# Create an issue at https:///AdAway/AdAway/issues
 #
 # Changelog:
 # 2016-07-18 Now hosted on GitHub + Cloudflare
