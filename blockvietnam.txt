@@ -12,3 +12,8 @@
 127.0.0.1 mirror.internetdownloadmanager.com
 127.0.0.1 mirror2.internetdownloadmanager.com
 127.0.0.1 mirror3.internetdownloadmanager.com
+||mirror5.internetdownloadmanager.com^$important
+||mirror3.internetdownloadmanager.com^$important
+||www.internetdownloadmanager.com^$important
+||secure.internetdownloadmanager.com^$important
+||test.internetdownloadmanager.com^$important
