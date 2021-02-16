@@ -1,15 +1,14 @@
-xvideos.com
-xnxx.com
-sieukhung.net
-hentaicube.net
-hentaivn.net
-thiendia.com
-lauxanh.org
-yahoo.com
-vn.yahoo.com
-udc.yahoo.com
-ganon.yahoo.com
-vlxx.tv
-truyenhentai.com
-showbua.com
-blogspot.com
+127.0.0.1 star.tonec.com
+127.0.0.1 tonec.com
+127.0.0.1 www.tonec.com
+127.0.0.1 registeridm.com
+205.199.44.156 registeridm.com
+205.199.44.16 registeridm.com
+127.0.0.1 www.registeridm.com
+127.0.0.1 secure.registeridm.com
+127.0.0.1 internetdownloadmanager.com
+127.0.0.1 www.internetdownloadmanager.com
+127.0.0.1 secure.internetdownloadmanager.com
+127.0.0.1 mirror.internetdownloadmanager.com
+127.0.0.1 mirror2.internetdownloadmanager.com
+127.0.0.1 mirror3.internetdownloadmanager.com
