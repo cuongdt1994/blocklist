@@ -17,5 +17,4 @@
 ||www.internetdownloadmanager.com^$important
 ||secure.internetdownloadmanager.com^$important
 ||test.internetdownloadmanager.com^$important
-||accounts5.roonlabs.com^$important
 ||updates.roonlabs.com^$important
