@@ -18,3 +18,4 @@
 ||secure.internetdownloadmanager.com^$important
 ||test.internetdownloadmanager.com^$important
 ||updates.roonlabs.com^$important
+||accounts5.roonlabs.com^$important
