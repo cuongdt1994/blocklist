@@ -1,17 +1,17 @@
-127.0.0.1 star.tonec.com
-127.0.0.1 tonec.com
-127.0.0.1 www.tonec.com
-127.0.0.1 registeridm.com
-205.199.44.156 registeridm.com
-205.199.44.16 registeridm.com
-127.0.0.1 www.registeridm.com
-127.0.0.1 secure.registeridm.com
-127.0.0.1 internetdownloadmanager.com
-127.0.0.1 www.internetdownloadmanager.com
-127.0.0.1 secure.internetdownloadmanager.com
-127.0.0.1 mirror.internetdownloadmanager.com
-127.0.0.1 mirror2.internetdownloadmanager.com
-127.0.0.1 mirror3.internetdownloadmanager.com
+||star.tonec.com
+||tonec.com^$important
+||www.tonec.com^$important
+||registeridm.com^$important
+||registeridm.com^$important
+||registeridm.com^$important
+||www.registeridm.com^$important
+||secure.registeridm.com^$important
+||internetdownloadmanager.com^$important
+||www.internetdownloadmanager.com^$important
+||secure.internetdownloadmanager.com^$important
+||mirror.internetdownloadmanager.com^$important
+||mirror2.internetdownloadmanager.com^$important
+||mirror3.internetdownloadmanager.com^$important
 ||mirror5.internetdownloadmanager.com^$important
 ||mirror3.internetdownloadmanager.com^$important
 ||www.internetdownloadmanager.com^$important
